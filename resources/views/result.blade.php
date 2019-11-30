@@ -24,7 +24,7 @@
 </div>
 <div class="wrapper row3">
 	<main class="hoc container clear"> 
-		<!-- main body -->
+		<!-- main body lll -->
 		<div class="content"> 			
 			<p>Dari tes yang telah kau kerjakan, inilah hasil yang kau dapatkan.</p>
 			<p>Kamu memiliki tipe kepribadian <b>{{ $kepribadian }}</b></p> 
